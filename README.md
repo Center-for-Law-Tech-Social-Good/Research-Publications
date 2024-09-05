@@ -1,8 +1,13 @@
 # Research-Publications
 
+
 **Research Approach**
 
-The Center's research seeks to advance innovation and collaboration at the convergence of emerging technologies and the legal domain. The Center has established an interdisciplinary community which provides law students with opportunities for growth and exploration. Through its research, the Center aims to promote social good by cultivating an engaged network that encourages knowledge sharing, critical discourse, and collective problem-solving through articles, studies, and reports
+The Center's research seeks to advance innovation and collaboration at the convergence of emerging technologies and the legal domain. The Center has established an interdisciplinary community which provides law students with opportunities for growth and exploration. 
+
+Through its research, the Center aims to promote social good by cultivating an engaged network that encourages knowledge sharing, critical discourse, and collective problem-solving through articles, studies, and reports
+
+
 
 
 
